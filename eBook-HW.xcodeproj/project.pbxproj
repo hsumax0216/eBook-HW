@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F9091FAA223F54EE00992EB0 /* iosHW-jojo設定集資料 in Resources */ = {isa = PBXBuildFile; fileRef = F9091FA9223F54EE00992EB0 /* iosHW-jojo設定集資料 */; };
 		F9E9FD3D223E5B3B0011555C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E9FD3C223E5B3B0011555C /* AppDelegate.swift */; };
 		F9E9FD3F223E5B3B0011555C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E9FD3E223E5B3B0011555C /* ViewController.swift */; };
 		F9E9FD42223E5B3B0011555C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9E9FD40223E5B3B0011555C /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F9091FA9223F54EE00992EB0 /* iosHW-jojo設定集資料 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "iosHW-jojo設定集資料"; path = "Assets.xcassets/iosHW-jojo設定集資料"; sourceTree = "<group>"; };
 		F9E9FD39223E5B3B0011555C /* eBook-HW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "eBook-HW.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9E9FD3C223E5B3B0011555C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9E9FD3E223E5B3B0011555C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				F9E9FD3E223E5B3B0011555C /* ViewController.swift */,
 				F9E9FD40223E5B3B0011555C /* Main.storyboard */,
 				F9E9FD43223E5B3C0011555C /* Assets.xcassets */,
+				F9091FA9223F54EE00992EB0 /* iosHW-jojo設定集資料 */,
 				F9E9FD45223E5B3C0011555C /* LaunchScreen.storyboard */,
 				F9E9FD48223E5B3C0011555C /* Info.plist */,
 			);
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9E9FD47223E5B3C0011555C /* LaunchScreen.storyboard in Resources */,
+				F9091FAA223F54EE00992EB0 /* iosHW-jojo設定集資料 in Resources */,
 				F9E9FD44223E5B3C0011555C /* Assets.xcassets in Resources */,
 				F9E9FD42223E5B3B0011555C /* Main.storyboard in Resources */,
 			);
