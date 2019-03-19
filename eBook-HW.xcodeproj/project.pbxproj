@@ -7,7 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F9091FAA223F54EE00992EB0 /* iosHW-jojo設定集資料 in Resources */ = {isa = PBXBuildFile; fileRef = F9091FA9223F54EE00992EB0 /* iosHW-jojo設定集資料 */; };
+		9CBFA8D422415D78000A0CFB /* images (1).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8BB22415D78000A0CFB /* images (1).jpg */; };
+		9CBFA8D522415D78000A0CFB /* 0001429587.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8BC22415D78000A0CFB /* 0001429587.JPG */; };
+		9CBFA8D622415D78000A0CFB /* 简·皮耶尔·波鲁纳雷夫-能力.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8BD22415D78000A0CFB /* 简·皮耶尔·波鲁纳雷夫-能力.PNG */; };
+		9CBFA8D722415D78000A0CFB /* 花京院典明-能力.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8BE22415D78000A0CFB /* 花京院典明-能力.PNG */; };
+		9CBFA8D822415D78000A0CFB /* 封面.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8BF22415D78000A0CFB /* 封面.JPG */; };
+		9CBFA8D922415D78000A0CFB /* 549e4c7e.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8C022415D78000A0CFB /* 549e4c7e.jpg */; };
+		9CBFA8DA22415D78000A0CFB /* 空條承太郎-能力-(6初期).PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8C122415D78000A0CFB /* 空條承太郎-能力-(6初期).PNG */; };
+		9CBFA8DB22415D78000A0CFB /* speedwagon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8C222415D78000A0CFB /* speedwagon.png */; };
+		9CBFA8DC22415D78000A0CFB /* 喬瑟夫·喬斯達.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8C322415D78000A0CFB /* 喬瑟夫·喬斯達.jpg */; };
+		9CBFA8DD22415D78000A0CFB /* 空條徐倫-能力表.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8C422415D78000A0CFB /* 空條徐倫-能力表.PNG */; };
+		9CBFA8DE22415D78000A0CFB /* 西撒.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8C522415D78000A0CFB /* 西撒.jpg */; };
+		9CBFA8DF22415D78000A0CFB /* dio2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8C622415D78000A0CFB /* dio2.jpg */; };
+		9CBFA8E122415D78000A0CFB /* 0001473620.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8C822415D78000A0CFB /* 0001473620.JPG */; };
+		9CBFA8E222415D78000A0CFB /* 莉莎莉莎.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8C922415D78000A0CFB /* 莉莎莉莎.jpg */; };
+		9CBFA8E322415D78000A0CFB /* 空條承太郎-能力-(6後期).PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8CA22415D78000A0CFB /* 空條承太郎-能力-(6後期).PNG */; };
+		9CBFA8E422415D78000A0CFB /* ジョナサン・ジョースター.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8CB22415D78000A0CFB /* ジョナサン・ジョースター.jpg */; };
+		9CBFA8E522415D78000A0CFB /* 48421029_1217245555099253_6947797874084151296_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8CC22415D78000A0CFB /* 48421029_1217245555099253_6947797874084151296_n.jpg */; };
+		9CBFA8E622415D78000A0CFB /* dio.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8CD22415D78000A0CFB /* dio.png */; };
+		9CBFA8E722415D78000A0CFB /* 穆罕默德·阿布德爾-能力.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8CE22415D78000A0CFB /* 穆罕默德·阿布德爾-能力.PNG */; };
+		9CBFA8E822415D78000A0CFB /* 空條承太郎-能力-(3,4).PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8CF22415D78000A0CFB /* 空條承太郎-能力-(3,4).PNG */; };
+		9CBFA8E922415D78000A0CFB /* 09lKtaZ.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8D022415D78000A0CFB /* 09lKtaZ.gif */; };
+		9CBFA8EA22415D78000A0CFB /* 威廉·A·齐贝林.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8D122415D78000A0CFB /* 威廉·A·齐贝林.jpg */; };
+		9CBFA8EB22415D78000A0CFB /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8D222415D78000A0CFB /* images.jpg */; };
+		9CBFA8EC22415D78000A0CFB /* 喬瑟夫·喬斯達-能力.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8D322415D78000A0CFB /* 喬瑟夫·喬斯達-能力.PNG */; };
+		9CBFA8F022416492000A0CFB /* kakyoin.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8ED22416491000A0CFB /* kakyoin.png */; };
+		9CBFA8F122416492000A0CFB /* 空條承太郎.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8EE22416492000A0CFB /* 空條承太郎.png */; };
+		9CBFA8F222416492000A0CFB /* Joseph Joestar.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8EF22416492000A0CFB /* Joseph Joestar.png */; };
+		9CBFA8F4224167EB000A0CFB /* polnareff.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8F3224167EB000A0CFB /* polnareff.png */; };
+		9CBFA8F7224168C6000A0CFB /* 250px-MuhammadAvdol.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8F5224168C6000A0CFB /* 250px-MuhammadAvdol.png */; };
+		9CBFA8F8224168C6000A0CFB /* アヴドゥル.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8F6224168C6000A0CFB /* アヴドゥル.png */; };
+		9CBFA8FC22416BF2000A0CFB /* b10e5901.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8F922416BF2000A0CFB /* b10e5901.jpg */; };
+		9CBFA8FD22416BF2000A0CFB /* イギー.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8FA22416BF2000A0CFB /* イギー.png */; };
+		9CBFA8FE22416BF2000A0CFB /* イギー2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA8FB22416BF2000A0CFB /* イギー2.jpg */; };
+		9CBFA906224179CA000A0CFB /* 300px-Magician's_Red_AnimeAV.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA901224179C9000A0CFB /* 300px-Magician's_Red_AnimeAV.png */; };
+		9CBFA907224179CA000A0CFB /* Silver chariots.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA902224179C9000A0CFB /* Silver chariots.png */; };
+		9CBFA908224179CA000A0CFB /* The_Fool_Stand.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA903224179CA000A0CFB /* The_Fool_Stand.png */; };
+		9CBFA90A22417A1C000A0CFB /* star platinum.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA90922417A1C000A0CFB /* star platinum.png */; };
+		9CBFA90C22417E66000A0CFB /* 花京院典明＿封面.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA90B22417E66000A0CFB /* 花京院典明＿封面.jpg */; };
+		9CBFA90E22417EB5000A0CFB /* ハイエロファントグリーン.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA90D22417EB5000A0CFB /* ハイエロファントグリーン.png */; };
+		9CBFA91022417FB4000A0CFB /* 二喬.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA90F22417FB4000A0CFB /* 二喬.png */; };
+		9CBFA91222418105000A0CFB /* 隐者之紫.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA91122418105000A0CFB /* 隐者之紫.jpg */; };
+		9CBFA914224181F1000A0CFB /* polnareff_封面.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA913224181F1000A0CFB /* polnareff_封面.jpg */; };
+		9CBFA9162241832F000A0CFB /* YESIAM!_Anime.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA9152241832F000A0CFB /* YESIAM!_Anime.png */; };
+		9CBFA91822418488000A0CFB /* 伊奇＿能力.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA91722418487000A0CFB /* 伊奇＿能力.png */; };
 		F9E9FD3D223E5B3B0011555C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E9FD3C223E5B3B0011555C /* AppDelegate.swift */; };
 		F9E9FD3F223E5B3B0011555C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E9FD3E223E5B3B0011555C /* ViewController.swift */; };
 		F9E9FD42223E5B3B0011555C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9E9FD40223E5B3B0011555C /* Main.storyboard */; };
@@ -35,7 +78,50 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F9091FA9223F54EE00992EB0 /* iosHW-jojo設定集資料 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "iosHW-jojo設定集資料"; path = "Assets.xcassets/iosHW-jojo設定集資料"; sourceTree = "<group>"; };
+		9CBFA8BB22415D78000A0CFB /* images (1).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images (1).jpg"; sourceTree = "<group>"; };
+		9CBFA8BC22415D78000A0CFB /* 0001429587.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0001429587.JPG; sourceTree = "<group>"; };
+		9CBFA8BD22415D78000A0CFB /* 简·皮耶尔·波鲁纳雷夫-能力.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "简·皮耶尔·波鲁纳雷夫-能力.PNG"; sourceTree = "<group>"; };
+		9CBFA8BE22415D78000A0CFB /* 花京院典明-能力.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "花京院典明-能力.PNG"; sourceTree = "<group>"; };
+		9CBFA8BF22415D78000A0CFB /* 封面.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "封面.JPG"; sourceTree = "<group>"; };
+		9CBFA8C022415D78000A0CFB /* 549e4c7e.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 549e4c7e.jpg; sourceTree = "<group>"; };
+		9CBFA8C122415D78000A0CFB /* 空條承太郎-能力-(6初期).PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "空條承太郎-能力-(6初期).PNG"; sourceTree = "<group>"; };
+		9CBFA8C222415D78000A0CFB /* speedwagon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = speedwagon.png; sourceTree = "<group>"; };
+		9CBFA8C322415D78000A0CFB /* 喬瑟夫·喬斯達.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "喬瑟夫·喬斯達.jpg"; sourceTree = "<group>"; };
+		9CBFA8C422415D78000A0CFB /* 空條徐倫-能力表.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "空條徐倫-能力表.PNG"; sourceTree = "<group>"; };
+		9CBFA8C522415D78000A0CFB /* 西撒.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "西撒.jpg"; sourceTree = "<group>"; };
+		9CBFA8C622415D78000A0CFB /* dio2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dio2.jpg; sourceTree = "<group>"; };
+		9CBFA8C822415D78000A0CFB /* 0001473620.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0001473620.JPG; sourceTree = "<group>"; };
+		9CBFA8C922415D78000A0CFB /* 莉莎莉莎.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "莉莎莉莎.jpg"; sourceTree = "<group>"; };
+		9CBFA8CA22415D78000A0CFB /* 空條承太郎-能力-(6後期).PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "空條承太郎-能力-(6後期).PNG"; sourceTree = "<group>"; };
+		9CBFA8CB22415D78000A0CFB /* ジョナサン・ジョースター.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ジョナサン・ジョースター.jpg"; sourceTree = "<group>"; };
+		9CBFA8CC22415D78000A0CFB /* 48421029_1217245555099253_6947797874084151296_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 48421029_1217245555099253_6947797874084151296_n.jpg; sourceTree = "<group>"; };
+		9CBFA8CD22415D78000A0CFB /* dio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dio.png; sourceTree = "<group>"; };
+		9CBFA8CE22415D78000A0CFB /* 穆罕默德·阿布德爾-能力.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "穆罕默德·阿布德爾-能力.PNG"; sourceTree = "<group>"; };
+		9CBFA8CF22415D78000A0CFB /* 空條承太郎-能力-(3,4).PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "空條承太郎-能力-(3,4).PNG"; sourceTree = "<group>"; };
+		9CBFA8D022415D78000A0CFB /* 09lKtaZ.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 09lKtaZ.gif; sourceTree = "<group>"; };
+		9CBFA8D122415D78000A0CFB /* 威廉·A·齐贝林.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "威廉·A·齐贝林.jpg"; sourceTree = "<group>"; };
+		9CBFA8D222415D78000A0CFB /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpg; sourceTree = "<group>"; };
+		9CBFA8D322415D78000A0CFB /* 喬瑟夫·喬斯達-能力.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "喬瑟夫·喬斯達-能力.PNG"; sourceTree = "<group>"; };
+		9CBFA8ED22416491000A0CFB /* kakyoin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kakyoin.png; sourceTree = "<group>"; };
+		9CBFA8EE22416492000A0CFB /* 空條承太郎.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "空條承太郎.png"; sourceTree = "<group>"; };
+		9CBFA8EF22416492000A0CFB /* Joseph Joestar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Joseph Joestar.png"; sourceTree = "<group>"; };
+		9CBFA8F3224167EB000A0CFB /* polnareff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = polnareff.png; sourceTree = "<group>"; };
+		9CBFA8F5224168C6000A0CFB /* 250px-MuhammadAvdol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "250px-MuhammadAvdol.png"; sourceTree = "<group>"; };
+		9CBFA8F6224168C6000A0CFB /* アヴドゥル.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "アヴドゥル.png"; sourceTree = "<group>"; };
+		9CBFA8F922416BF2000A0CFB /* b10e5901.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = b10e5901.jpg; sourceTree = "<group>"; };
+		9CBFA8FA22416BF2000A0CFB /* イギー.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "イギー.png"; sourceTree = "<group>"; };
+		9CBFA8FB22416BF2000A0CFB /* イギー2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "イギー2.jpg"; sourceTree = "<group>"; };
+		9CBFA901224179C9000A0CFB /* 300px-Magician's_Red_AnimeAV.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "300px-Magician's_Red_AnimeAV.png"; sourceTree = "<group>"; };
+		9CBFA902224179C9000A0CFB /* Silver chariots.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Silver chariots.png"; sourceTree = "<group>"; };
+		9CBFA903224179CA000A0CFB /* The_Fool_Stand.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = The_Fool_Stand.png; sourceTree = "<group>"; };
+		9CBFA90922417A1C000A0CFB /* star platinum.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star platinum.png"; sourceTree = "<group>"; };
+		9CBFA90B22417E66000A0CFB /* 花京院典明＿封面.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "花京院典明＿封面.jpg"; sourceTree = "<group>"; };
+		9CBFA90D22417EB5000A0CFB /* ハイエロファントグリーン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ハイエロファントグリーン.png"; sourceTree = "<group>"; };
+		9CBFA90F22417FB4000A0CFB /* 二喬.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "二喬.png"; sourceTree = "<group>"; };
+		9CBFA91122418105000A0CFB /* 隐者之紫.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "隐者之紫.jpg"; sourceTree = "<group>"; };
+		9CBFA913224181F1000A0CFB /* polnareff_封面.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "polnareff_封面.jpg"; sourceTree = "<group>"; };
+		9CBFA9152241832F000A0CFB /* YESIAM!_Anime.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "YESIAM!_Anime.png"; sourceTree = "<group>"; };
+		9CBFA91722418487000A0CFB /* 伊奇＿能力.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "伊奇＿能力.png"; sourceTree = "<group>"; };
 		F9E9FD39223E5B3B0011555C /* eBook-HW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "eBook-HW.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9E9FD3C223E5B3B0011555C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9E9FD3E223E5B3B0011555C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +162,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9CBFA8BA22415D78000A0CFB /* iosHW-jojo設定集資料 */ = {
+			isa = PBXGroup;
+			children = (
+				9CBFA91722418487000A0CFB /* 伊奇＿能力.png */,
+				9CBFA9152241832F000A0CFB /* YESIAM!_Anime.png */,
+				9CBFA913224181F1000A0CFB /* polnareff_封面.jpg */,
+				9CBFA91122418105000A0CFB /* 隐者之紫.jpg */,
+				9CBFA90F22417FB4000A0CFB /* 二喬.png */,
+				9CBFA90D22417EB5000A0CFB /* ハイエロファントグリーン.png */,
+				9CBFA90B22417E66000A0CFB /* 花京院典明＿封面.jpg */,
+				9CBFA90922417A1C000A0CFB /* star platinum.png */,
+				9CBFA901224179C9000A0CFB /* 300px-Magician's_Red_AnimeAV.png */,
+				9CBFA902224179C9000A0CFB /* Silver chariots.png */,
+				9CBFA903224179CA000A0CFB /* The_Fool_Stand.png */,
+				9CBFA8F922416BF2000A0CFB /* b10e5901.jpg */,
+				9CBFA8FA22416BF2000A0CFB /* イギー.png */,
+				9CBFA8FB22416BF2000A0CFB /* イギー2.jpg */,
+				9CBFA8F5224168C6000A0CFB /* 250px-MuhammadAvdol.png */,
+				9CBFA8F6224168C6000A0CFB /* アヴドゥル.png */,
+				9CBFA8F3224167EB000A0CFB /* polnareff.png */,
+				9CBFA8EF22416492000A0CFB /* Joseph Joestar.png */,
+				9CBFA8ED22416491000A0CFB /* kakyoin.png */,
+				9CBFA8EE22416492000A0CFB /* 空條承太郎.png */,
+				9CBFA8BB22415D78000A0CFB /* images (1).jpg */,
+				9CBFA8BC22415D78000A0CFB /* 0001429587.JPG */,
+				9CBFA8BD22415D78000A0CFB /* 简·皮耶尔·波鲁纳雷夫-能力.PNG */,
+				9CBFA8BE22415D78000A0CFB /* 花京院典明-能力.PNG */,
+				9CBFA8BF22415D78000A0CFB /* 封面.JPG */,
+				9CBFA8C022415D78000A0CFB /* 549e4c7e.jpg */,
+				9CBFA8C122415D78000A0CFB /* 空條承太郎-能力-(6初期).PNG */,
+				9CBFA8C222415D78000A0CFB /* speedwagon.png */,
+				9CBFA8C322415D78000A0CFB /* 喬瑟夫·喬斯達.jpg */,
+				9CBFA8C422415D78000A0CFB /* 空條徐倫-能力表.PNG */,
+				9CBFA8C522415D78000A0CFB /* 西撒.jpg */,
+				9CBFA8C622415D78000A0CFB /* dio2.jpg */,
+				9CBFA8C822415D78000A0CFB /* 0001473620.JPG */,
+				9CBFA8C922415D78000A0CFB /* 莉莎莉莎.jpg */,
+				9CBFA8CA22415D78000A0CFB /* 空條承太郎-能力-(6後期).PNG */,
+				9CBFA8CB22415D78000A0CFB /* ジョナサン・ジョースター.jpg */,
+				9CBFA8CC22415D78000A0CFB /* 48421029_1217245555099253_6947797874084151296_n.jpg */,
+				9CBFA8CD22415D78000A0CFB /* dio.png */,
+				9CBFA8CE22415D78000A0CFB /* 穆罕默德·阿布德爾-能力.PNG */,
+				9CBFA8CF22415D78000A0CFB /* 空條承太郎-能力-(3,4).PNG */,
+				9CBFA8D022415D78000A0CFB /* 09lKtaZ.gif */,
+				9CBFA8D122415D78000A0CFB /* 威廉·A·齐贝林.jpg */,
+				9CBFA8D222415D78000A0CFB /* images.jpg */,
+				9CBFA8D322415D78000A0CFB /* 喬瑟夫·喬斯達-能力.PNG */,
+			);
+			name = "iosHW-jojo設定集資料";
+			path = "Assets.xcassets/iosHW-jojo設定集資料";
+			sourceTree = "<group>";
+		};
 		F9E9FD30223E5B3B0011555C = {
 			isa = PBXGroup;
 			children = (
@@ -103,7 +241,7 @@
 				F9E9FD3E223E5B3B0011555C /* ViewController.swift */,
 				F9E9FD40223E5B3B0011555C /* Main.storyboard */,
 				F9E9FD43223E5B3C0011555C /* Assets.xcassets */,
-				F9091FA9223F54EE00992EB0 /* iosHW-jojo設定集資料 */,
+				9CBFA8BA22415D78000A0CFB /* iosHW-jojo設定集資料 */,
 				F9E9FD45223E5B3C0011555C /* LaunchScreen.storyboard */,
 				F9E9FD48223E5B3C0011555C /* Info.plist */,
 			);
@@ -232,10 +370,53 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CBFA8DB22415D78000A0CFB /* speedwagon.png in Resources */,
+				9CBFA8FD22416BF2000A0CFB /* イギー.png in Resources */,
+				9CBFA908224179CA000A0CFB /* The_Fool_Stand.png in Resources */,
+				9CBFA8DF22415D78000A0CFB /* dio2.jpg in Resources */,
+				9CBFA8EA22415D78000A0CFB /* 威廉·A·齐贝林.jpg in Resources */,
+				9CBFA90A22417A1C000A0CFB /* star platinum.png in Resources */,
+				9CBFA91222418105000A0CFB /* 隐者之紫.jpg in Resources */,
+				9CBFA907224179CA000A0CFB /* Silver chariots.png in Resources */,
+				9CBFA8F4224167EB000A0CFB /* polnareff.png in Resources */,
+				9CBFA8E422415D78000A0CFB /* ジョナサン・ジョースター.jpg in Resources */,
+				9CBFA8E922415D78000A0CFB /* 09lKtaZ.gif in Resources */,
+				9CBFA8D822415D78000A0CFB /* 封面.JPG in Resources */,
+				9CBFA8EC22415D78000A0CFB /* 喬瑟夫·喬斯達-能力.PNG in Resources */,
+				9CBFA8FC22416BF2000A0CFB /* b10e5901.jpg in Resources */,
+				9CBFA8DD22415D78000A0CFB /* 空條徐倫-能力表.PNG in Resources */,
 				F9E9FD47223E5B3C0011555C /* LaunchScreen.storyboard in Resources */,
-				F9091FAA223F54EE00992EB0 /* iosHW-jojo設定集資料 in Resources */,
+				9CBFA8E522415D78000A0CFB /* 48421029_1217245555099253_6947797874084151296_n.jpg in Resources */,
+				9CBFA8E122415D78000A0CFB /* 0001473620.JPG in Resources */,
+				9CBFA8D422415D78000A0CFB /* images (1).jpg in Resources */,
+				9CBFA8F122416492000A0CFB /* 空條承太郎.png in Resources */,
+				9CBFA8F022416492000A0CFB /* kakyoin.png in Resources */,
+				9CBFA8E822415D78000A0CFB /* 空條承太郎-能力-(3,4).PNG in Resources */,
+				9CBFA906224179CA000A0CFB /* 300px-Magician's_Red_AnimeAV.png in Resources */,
+				9CBFA8E622415D78000A0CFB /* dio.png in Resources */,
+				9CBFA8EB22415D78000A0CFB /* images.jpg in Resources */,
+				9CBFA90E22417EB5000A0CFB /* ハイエロファントグリーン.png in Resources */,
+				9CBFA8D622415D78000A0CFB /* 简·皮耶尔·波鲁纳雷夫-能力.PNG in Resources */,
+				9CBFA8DE22415D78000A0CFB /* 西撒.jpg in Resources */,
+				9CBFA8DA22415D78000A0CFB /* 空條承太郎-能力-(6初期).PNG in Resources */,
+				9CBFA91022417FB4000A0CFB /* 二喬.png in Resources */,
 				F9E9FD44223E5B3C0011555C /* Assets.xcassets in Resources */,
+				9CBFA8F7224168C6000A0CFB /* 250px-MuhammadAvdol.png in Resources */,
 				F9E9FD42223E5B3B0011555C /* Main.storyboard in Resources */,
+				9CBFA914224181F1000A0CFB /* polnareff_封面.jpg in Resources */,
+				9CBFA8E222415D78000A0CFB /* 莉莎莉莎.jpg in Resources */,
+				9CBFA8D922415D78000A0CFB /* 549e4c7e.jpg in Resources */,
+				9CBFA8F222416492000A0CFB /* Joseph Joestar.png in Resources */,
+				9CBFA8D722415D78000A0CFB /* 花京院典明-能力.PNG in Resources */,
+				9CBFA9162241832F000A0CFB /* YESIAM!_Anime.png in Resources */,
+				9CBFA91822418488000A0CFB /* 伊奇＿能力.png in Resources */,
+				9CBFA8F8224168C6000A0CFB /* アヴドゥル.png in Resources */,
+				9CBFA90C22417E66000A0CFB /* 花京院典明＿封面.jpg in Resources */,
+				9CBFA8E322415D78000A0CFB /* 空條承太郎-能力-(6後期).PNG in Resources */,
+				9CBFA8FE22416BF2000A0CFB /* イギー2.jpg in Resources */,
+				9CBFA8E722415D78000A0CFB /* 穆罕默德·阿布德爾-能力.PNG in Resources */,
+				9CBFA8DC22415D78000A0CFB /* 喬瑟夫·喬斯達.jpg in Resources */,
+				9CBFA8D522415D78000A0CFB /* 0001429587.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
