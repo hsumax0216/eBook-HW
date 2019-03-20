@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--首頁-->
+        <!--View Controller-->
         <scene sceneID="ROd-rP-906">
             <objects>
                 <viewController id="xNY-eR-OBI" sceneMemberID="viewController">
@@ -26,7 +26,7 @@
                         <color key="backgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="LIb-qs-uCJ"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="首頁" id="pEm-JQ-nfN"/>
+                    <tabBarItem key="tabBarItem" image="details" id="pEm-JQ-nfN"/>
                     <navigationItem key="navigationItem" id="7bB-kV-sJu"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7Nk-yW-wsJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -760,6 +760,7 @@ JOJO的“人类赞歌”主题在伊奇的身上第一次扩展到了人类之�
         <image name="The_Fool_Stand.png" width="435" height="618"/>
         <image name="YESIAM!_Anime.png" width="1920" height="1080"/>
         <image name="b10e5901.jpg" width="1280" height="722"/>
+        <image name="details" width="384" height="384"/>
         <image name="kakyoin.png" width="235" height="400"/>
         <image name="polnareff.png" width="347" height="349"/>
         <image name="polnareff_封面.jpg" width="650" height="400"/>
