@@ -55,6 +55,8 @@
 		9CBFA91E22420A30000A0CFB /* home-2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA91B22420A30000A0CFB /* home-2.pdf */; };
 		9CBFA91F22420A30000A0CFB /* profiles.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA91C22420A30000A0CFB /* profiles.pdf */; };
 		9CBFA92022420A30000A0CFB /* home.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA91D22420A30000A0CFB /* home.pdf */; };
+		9CE99820224217A50001D322 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CE9981E224217A50001D322 /* home.png */; };
+		9CE99821224217A50001D322 /* profiles.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CE9981F224217A50001D322 /* profiles.png */; };
 		F9E9FD3D223E5B3B0011555C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E9FD3C223E5B3B0011555C /* AppDelegate.swift */; };
 		F9E9FD3F223E5B3B0011555C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E9FD3E223E5B3B0011555C /* ViewController.swift */; };
 		F9E9FD42223E5B3B0011555C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9E9FD40223E5B3B0011555C /* Main.storyboard */; };
@@ -130,6 +132,8 @@
 		9CBFA91B22420A30000A0CFB /* home-2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "home-2.pdf"; sourceTree = "<group>"; };
 		9CBFA91C22420A30000A0CFB /* profiles.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = profiles.pdf; sourceTree = "<group>"; };
 		9CBFA91D22420A30000A0CFB /* home.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = home.pdf; sourceTree = "<group>"; };
+		9CE9981E224217A50001D322 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
+		9CE9981F224217A50001D322 /* profiles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profiles.png; sourceTree = "<group>"; };
 		F9E9FD39223E5B3B0011555C /* eBook-HW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "eBook-HW.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9E9FD3C223E5B3B0011555C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9E9FD3E223E5B3B0011555C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -173,6 +177,8 @@
 		9CBFA8BA22415D78000A0CFB /* iosHW-jojo設定集資料 */ = {
 			isa = PBXGroup;
 			children = (
+				9CE9981E224217A50001D322 /* home.png */,
+				9CE9981F224217A50001D322 /* profiles.png */,
 				9CBFA91B22420A30000A0CFB /* home-2.pdf */,
 				9CBFA91D22420A30000A0CFB /* home.pdf */,
 				9CBFA91C22420A30000A0CFB /* profiles.pdf */,
@@ -418,6 +424,7 @@
 				F9E9FD44223E5B3C0011555C /* Assets.xcassets in Resources */,
 				9CBFA8F7224168C6000A0CFB /* 250px-MuhammadAvdol.png in Resources */,
 				F9E9FD42223E5B3B0011555C /* Main.storyboard in Resources */,
+				9CE99820224217A50001D322 /* home.png in Resources */,
 				9CBFA914224181F1000A0CFB /* polnareff_封面.jpg in Resources */,
 				9CBFA91F22420A30000A0CFB /* profiles.pdf in Resources */,
 				9CBFA8E222415D78000A0CFB /* 莉莎莉莎.jpg in Resources */,
@@ -426,6 +433,7 @@
 				9CBFA8D722415D78000A0CFB /* 花京院典明-能力.PNG in Resources */,
 				9CBFA9162241832F000A0CFB /* YESIAM!_Anime.png in Resources */,
 				9CBFA91822418488000A0CFB /* 伊奇＿能力.png in Resources */,
+				9CE99821224217A50001D322 /* profiles.png in Resources */,
 				9CBFA8F8224168C6000A0CFB /* アヴドゥル.png in Resources */,
 				9CBFA90C22417E66000A0CFB /* 花京院典明＿封面.jpg in Resources */,
 				9CBFA8E322415D78000A0CFB /* 空條承太郎-能力-(6後期).PNG in Resources */,

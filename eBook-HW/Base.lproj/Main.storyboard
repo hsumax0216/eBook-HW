@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--首頁-->
         <scene sceneID="ROd-rP-906">
             <objects>
                 <viewController id="xNY-eR-OBI" sceneMemberID="viewController">
@@ -26,7 +26,7 @@
                         <color key="backgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="LIb-qs-uCJ"/>
                     </view>
-                    <tabBarItem key="tabBarItem" image="details" id="pEm-JQ-nfN"/>
+                    <tabBarItem key="tabBarItem" title="首頁" image="home.png" id="pEm-JQ-nfN"/>
                     <navigationItem key="navigationItem" id="7bB-kV-sJu"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7Nk-yW-wsJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -52,7 +52,7 @@
             </objects>
             <point key="canvasLocation" x="-454" y="-251"/>
         </scene>
-        <!--View Controller-->
+        <!--星塵十字軍-->
         <scene sceneID="BIk-wl-RwL">
             <objects>
                 <viewController id="pfm-Co-BKl" sceneMemberID="viewController">
@@ -75,7 +75,7 @@
                         <color key="backgroundColor" red="0.99942404029999998" green="0.98555368190000003" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="5Le-Tf-79i"/>
                     </view>
-                    <navigationItem key="navigationItem" id="fCi-mN-Xep"/>
+                    <navigationItem key="navigationItem" title="星塵十字軍" id="fCi-mN-Xep"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="V7R-gx-FmR" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -94,10 +94,10 @@
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <subviews>
                                 <textView clipsSubviews="YES" multipleTouchEnabled="YES" alpha="0.80000000000000004" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="yYE-GL-Bgi">
-                                    <rect key="frame" x="141" y="42" width="234" height="159"/>
+                                    <rect key="frame" x="141" y="0.0" width="234" height="201"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                    <mutableString key="text">1987年，日本。
+                                    <string key="text">1987年，日本。
 
 在喬納森·喬斯達與DIO一同葬生海底100年，DIO藉助喬納森·喬斯達的肉體復活了。
 
@@ -112,7 +112,7 @@
 與他們組成星塵十字軍埃及，一同向埃及進發。
 
 阅读更多：JOJO的奇妙冒险https://zh.moegirl.org/JOJO%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%99%A9
-本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</mutableString>
+本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</string>
                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                     <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                     <dataDetectorType key="dataDetectorTypes" link="YES"/>
@@ -121,13 +121,6 @@
                                     <rect key="frame" x="0.0" y="0.0" width="141" height="201"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 </imageView>
-                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="星塵十字軍" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Zy6-pH-Sff">
-                                    <rect key="frame" x="141" y="0.0" width="234" height="42"/>
-                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
-                                    <color key="textColor" red="0.0" green="0.051177963710000003" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                    <nil key="highlightedColor"/>
-                                </label>
                             </subviews>
                             <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         </view>
@@ -275,7 +268,7 @@
                                                     <rect key="frame" x="16" y="0.0" width="107" height="107"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 </imageView>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="モハメド・アヴドゥル" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jCy-rM-01K">
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="イギー" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jCy-rM-01K">
                                                     <rect key="frame" x="131" y="26" width="228" height="64"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -303,7 +296,7 @@
             </objects>
             <point key="canvasLocation" x="2748" y="520.83958020989508"/>
         </scene>
-        <!--View Controller-->
+        <!--空条 承太郎-->
         <scene sceneID="Nfz-jD-7Su">
             <objects>
                 <viewController id="7Cg-La-KF0" sceneMemberID="viewController">
@@ -328,7 +321,7 @@
                                 <rect key="frame" x="16" y="243" width="343" height="133"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">星座：水瓶座
+                                <string key="text">星座：水瓶座
 血型：B型
 身高：195
 體重：82kg
@@ -340,7 +333,7 @@
 喜歡的顏色：有透明感的顏色通通喜歡
 口頭禪：真是夠了（やれやれだぜ）
 性格：空條承太郎認為並不需要刻意把自己的感情表達在外，但是在旁人眼中看來，他這種態度也相當明顯，導致承太郎很容易受到他人的誤解，並認為承太郎是個冷淡、具反抗性及不關心他人的人。也因為這樣，他才那麼容易惹出麻煩。
-喜歡的女孩子類型：喜歡像大和撫子一樣傳統的日本女性，最討厭會讓他覺得很煩的女生。</mutableString>
+喜歡的女孩子類型：喜歡像大和撫子一樣傳統的日本女性，最討厭會讓他覺得很煩的女生。</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                 <dataDetectorType key="dataDetectorTypes" link="YES"/>
@@ -371,16 +364,17 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="TTs-zO-Pf8"/>
                     </view>
+                    <navigationItem key="navigationItem" title="空条 承太郎" id="xwG-d2-cEa"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vpp-zL-szq" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3862" y="521"/>
         </scene>
-        <!--setting-->
+        <!--人物資料-->
         <scene sceneID="d3b-rR-UCD">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="6c5-Ne-UYD" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="setting" id="aTS-5l-bTA"/>
+                    <tabBarItem key="tabBarItem" title="人物資料" image="profiles.png" id="aTS-5l-bTA"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="FSu-Ik-FNi">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
@@ -395,7 +389,7 @@
             </objects>
             <point key="canvasLocation" x="663.20000000000005" y="521.28935532233891"/>
         </scene>
-        <!--View Controller-->
+        <!--ジョセフ・ジョースター-->
         <scene sceneID="FRM-CS-SMk">
             <objects>
                 <viewController id="Veg-PG-QLT" sceneMemberID="viewController">
@@ -420,7 +414,7 @@
                                 <rect key="frame" x="16" y="243" width="343" height="133"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">性格
+                                <string key="text">性格
 相较大乔，二乔性格活泼机敏，更善于用头脑解决问题；同时为人也更加轻浮所以失去了外孙的尊敬，和大乔的绅士之风相去甚远导致乔斯达家再没出过绅士XD。正是这样鲜明的人物形象使他直到现在仍有很高的人气声称“乔斯达家世世代代都是绅士”的大乔哭晕在天堂。
 
 奶奶控，对奶奶艾莉娜女士非常敬爱。第一次坠机就是因为恐怖分子弄脏了艾莉娜奶奶买给他的衬衫而发怒。第二部结束后回到美国也是先去蒙奶奶眼睛。第三部正面对决迪奥的时候也说要为了艾莉娜奶奶干掉迪奥。
@@ -429,7 +423,7 @@
 二乔经历数次灾难，就算面对究极生物卫星卡兹也能保命成为地产大亨，被DIO吸血也能活不过相较卡兹DIO就是个面包，二乔活下来不奇怪（笑），有不止一个妹子1987年荷莉45岁，1999年仗助外公55岁，也就是说二乔啃了孙女辈的嫩草……话说六十多还造人成功是托波纹的福？，还有着乔斯达家少有的高寿有人指出说不定就是他吸走了家里其他人的寿命，和其他JOJO相比明显更加幸福但是纵观其一生，许多朋友兼队友都早早离世（第三部幸存下来的3人，波鲁那雷夫在第五部战死灵魂转移到乌龟身上，承太郎也在第六部片尾战死，只剩下一个二乔活到了新世界），而四部却少有死亡，或许仗助更加走运，他的名句、人生赢家的经历和各种奇迹生还也引发了各种联想。许多人猜测二乔是在天堂获得了从未谋面的爷爷大乔和西撒的救助也有人认为二乔刚上天堂就因为生前各种流氓行为被大乔和西撒气愤地踢回人间，从此不敢再死才得高寿。 然而他坐过的交通工具就……
 
 阅读更多：乔瑟夫·乔斯达（https://zh.moegirl.org/%E4%B9%94%E7%91%9F%E5%A4%AB%C2%B7%E4%B9%94%E6%96%AF%E8%BE%BE）
-本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</mutableString>
+本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                 <dataDetectorType key="dataDetectorTypes" link="YES"/>
@@ -460,12 +454,13 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="uH5-D3-hrX"/>
                     </view>
+                    <navigationItem key="navigationItem" title="ジョセフ・ジョースター" id="XNc-WO-7Pb"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6vp-fQ-QzS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2748" y="-251"/>
         </scene>
-        <!--View Controller-->
+        <!--花京院 典明-->
         <scene sceneID="XUy-s3-kZi">
             <objects>
                 <viewController id="Ww3-jv-1hf" sceneMemberID="viewController">
@@ -490,7 +485,7 @@
                                 <rect key="frame" x="16" y="243" width="343" height="133"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">总是穿着一身绿色的学生装，甚至在做日光浴的时候也不脱下。非常喜欢吃樱桃，能做出将樱桃用舌头拨来拨去的特技
+                                <string key="text">总是穿着一身绿色的学生装，甚至在做日光浴的时候也不脱下。非常喜欢吃樱桃，能做出将樱桃用舌头拨来拨去的特技
 
 性格非常冷静，也很有耐性，能利用绿色法皇的充分观察找出对手的弱点加以打击。
 
@@ -501,7 +496,7 @@
 十七年的孤独，五十天的友谊。
 
 阅读更多：花京院典明（https://zh.moegirl.org/%E8%8A%B1%E4%BA%AC%E9%99%A2%E5%85%B8%E6%98%8E）
-本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</mutableString>
+本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                 <dataDetectorType key="dataDetectorTypes" link="YES"/>
@@ -532,12 +527,13 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Lxe-xd-WVL"/>
                     </view>
+                    <navigationItem key="navigationItem" title="花京院 典明" id="hZt-ZU-ydN"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aG3-XI-QWD" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3862" y="-252"/>
         </scene>
-        <!--View Controller-->
+        <!--ジャン・ピエール・ポルナレフ-->
         <scene sceneID="Kqn-KQ-3tv">
             <objects>
                 <viewController id="Xdv-cs-IV8" sceneMemberID="viewController">
@@ -562,7 +558,7 @@
                                 <rect key="frame" x="16" y="243" width="343" height="133"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">為尋找殺死妹妹的兇手而四處旅行，被DIO用肉芽控制後去香港刺殺承太郎一行，後在與阿布德爾的替身對決落敗被喬瑟夫解除肉芽，遂加入埃及打屌團。
+                                <string key="text">為尋找殺死妹妹的兇手而四處旅行，被DIO用肉芽控制後去香港刺殺承太郎一行，後在與阿布德爾的替身對決落敗被喬瑟夫解除肉芽，遂加入埃及打屌團。
 
 在新加坡遭遇惡魔卡替身的擁有者迪波，一開始沒有意識到危險，結果被其附身的人偶綁住四肢，壓在床下。銀色戰車沒有視野無法準確攻擊其替身，但波魯納雷夫假裝慌亂打碎鏡子，最後在迪波企圖下殺手時利用鏡子看清其位置，將其擊敗。
 
@@ -579,7 +575,7 @@
 在承太郎打敗DIO後與其告別，並開始調查弓與箭
 
 阅读更多：简·皮耶尔·波鲁纳雷夫（https://zh.moegirl.org/%E7%AE%80%C2%B7%E7%9A%AE%E8%80%B6%E5%B0%94%C2%B7%E6%B3%A2%E9%B2%81%E7%BA%B3%E9%9B%B7%E5%A4%AB）
-本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</mutableString>
+本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                 <dataDetectorType key="dataDetectorTypes" link="YES"/>
@@ -610,12 +606,13 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="p26-Su-EOO"/>
                     </view>
+                    <navigationItem key="navigationItem" title="ジャン・ピエール・ポルナレフ" id="ObD-RN-9bm"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AGj-0S-BXa" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="4873" y="-251"/>
         </scene>
-        <!--View Controller-->
+        <!--モハメド・アヴドゥル-->
         <scene sceneID="TcM-3O-a0y">
             <objects>
                 <viewController id="VBo-JQ-W4s" sceneMemberID="viewController">
@@ -640,7 +637,7 @@
                                 <rect key="frame" x="16" y="243" width="343" height="133"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <mutableString key="text">阿布德尔的性格介于花京院与波鲁那雷夫之间，他不如花京院小心谨慎，但是又比波鲁那雷夫沉稳得多。他很信赖自己的伙伴，并且会为了伙伴赴汤蹈火，当然波鲁那雷夫他们对他也一样。在承太郎对决赌徒达比时，阿布德尔说：“我这个人没什么耐性，很不适合赌博，如果我和你玩的话，大概马上就会输吧……但是我相信承太郎，虽然我不晓得这盖着的五张牌有什么意义，但承太郎既然要我赌，我就相信他。不管是我的灵魂还是其他什么东西，我都会和你赌。”
+                                <string key="text">阿布德尔的性格介于花京院与波鲁那雷夫之间，他不如花京院小心谨慎，但是又比波鲁那雷夫沉稳得多。他很信赖自己的伙伴，并且会为了伙伴赴汤蹈火，当然波鲁那雷夫他们对他也一样。在承太郎对决赌徒达比时，阿布德尔说：“我这个人没什么耐性，很不适合赌博，如果我和你玩的话，大概马上就会输吧……但是我相信承太郎，虽然我不晓得这盖着的五张牌有什么意义，但承太郎既然要我赌，我就相信他。不管是我的灵魂还是其他什么东西，我都会和你赌。”
 
 在深入迪奥的隐藏地时，阿布德尔和波鲁那雷夫，伊奇约好，互相不去救对方，一心打倒迪奥。但当他们两个身处险境时，他还是出手相救。虽然阿布德尔的戏份不多，但他仍然是JOJO的一位可靠伙伴。
 
@@ -649,7 +646,7 @@
 名字来自于被称为“阿拉伯的艺术家”的歌手Mohammed Abdu
 
 阅读更多：穆罕默德·阿布德尔（https://zh.moegirl.org/%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%C2%B7%E9%98%BF%E5%B8%83%E5%BE%B7%E5%B0%94）
-本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</mutableString>
+本文引自萌娘百科（https://zh.moegirl.org/），文字内容遵守【知识共享 署名-非商业性使用-相同方式共享 3.0】协议。</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                 <dataDetectorType key="dataDetectorTypes" link="YES"/>
@@ -680,12 +677,13 @@
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="AnU-3t-DBT"/>
                     </view>
+                    <navigationItem key="navigationItem" title="モハメド・アヴドゥル" id="oOA-M7-Scm"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="QCp-7d-v8m" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="4873" y="543"/>
         </scene>
-        <!--View Controller-->
+        <!--イギー-->
         <scene sceneID="sMc-sd-uKH">
             <objects>
                 <viewController id="LLu-qU-u6q" sceneMemberID="viewController">
@@ -745,6 +743,7 @@ JOJO的“人类赞歌”主题在伊奇的身上第一次扩展到了人类之�
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Cz3-f6-fYm"/>
                     </view>
+                    <navigationItem key="navigationItem" title="イギー" id="jkH-Bc-caD"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tYD-PC-1e3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -760,10 +759,11 @@ JOJO的“人类赞歌”主题在伊奇的身上第一次扩展到了人类之�
         <image name="The_Fool_Stand.png" width="435" height="618"/>
         <image name="YESIAM!_Anime.png" width="1920" height="1080"/>
         <image name="b10e5901.jpg" width="1280" height="722"/>
-        <image name="details" width="384" height="384"/>
+        <image name="home.png" width="26.25" height="26.25"/>
         <image name="kakyoin.png" width="235" height="400"/>
         <image name="polnareff.png" width="347" height="349"/>
         <image name="polnareff_封面.jpg" width="650" height="400"/>
+        <image name="profiles.png" width="28" height="28"/>
         <image name="star platinum.png" width="841" height="1000"/>
         <image name="アヴドゥル.png" width="508" height="544"/>
         <image name="イギー2.jpg" width="487" height="399"/>
