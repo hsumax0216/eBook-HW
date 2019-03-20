@@ -57,6 +57,7 @@
 		9CBFA92022420A30000A0CFB /* home.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 9CBFA91D22420A30000A0CFB /* home.pdf */; };
 		9CE99820224217A50001D322 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CE9981E224217A50001D322 /* home.png */; };
 		9CE99821224217A50001D322 /* profiles.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CE9981F224217A50001D322 /* profiles.png */; };
+		9CE99824224222D20001D322 /* StardustCrusaders.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CE99822224222D20001D322 /* StardustCrusaders.storyboard */; };
 		F9E9FD3D223E5B3B0011555C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E9FD3C223E5B3B0011555C /* AppDelegate.swift */; };
 		F9E9FD3F223E5B3B0011555C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9E9FD3E223E5B3B0011555C /* ViewController.swift */; };
 		F9E9FD42223E5B3B0011555C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9E9FD40223E5B3B0011555C /* Main.storyboard */; };
@@ -134,6 +135,7 @@
 		9CBFA91D22420A30000A0CFB /* home.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = home.pdf; sourceTree = "<group>"; };
 		9CE9981E224217A50001D322 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 		9CE9981F224217A50001D322 /* profiles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profiles.png; sourceTree = "<group>"; };
+		9CE99823224222D20001D322 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "eBook-HW/Base.lproj/StardustCrusaders.storyboard"; sourceTree = "<group>"; };
 		F9E9FD39223E5B3B0011555C /* eBook-HW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "eBook-HW.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9E9FD3C223E5B3B0011555C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9E9FD3E223E5B3B0011555C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -255,6 +257,7 @@
 		F9E9FD3B223E5B3B0011555C /* eBook-HW */ = {
 			isa = PBXGroup;
 			children = (
+				9CE99822224222D20001D322 /* StardustCrusaders.storyboard */,
 				F9E9FD3C223E5B3B0011555C /* AppDelegate.swift */,
 				F9E9FD3E223E5B3B0011555C /* ViewController.swift */,
 				F9E9FD40223E5B3B0011555C /* Main.storyboard */,
@@ -419,6 +422,7 @@
 				9CBFA8D622415D78000A0CFB /* 简·皮耶尔·波鲁纳雷夫-能力.PNG in Resources */,
 				9CBFA8DE22415D78000A0CFB /* 西撒.jpg in Resources */,
 				9CBFA8DA22415D78000A0CFB /* 空條承太郎-能力-(6初期).PNG in Resources */,
+				9CE99824224222D20001D322 /* StardustCrusaders.storyboard in Resources */,
 				9CBFA91022417FB4000A0CFB /* 二喬.png in Resources */,
 				9CBFA92022420A30000A0CFB /* home.pdf in Resources */,
 				F9E9FD44223E5B3C0011555C /* Assets.xcassets in Resources */,
@@ -502,6 +506,14 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		9CE99822224222D20001D322 /* StardustCrusaders.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9CE99823224222D20001D322 /* Base */,
+			);
+			name = StardustCrusaders.storyboard;
+			sourceTree = "<group>";
+		};
 		F9E9FD40223E5B3B0011555C /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
